@@ -1,0 +1,2 @@
+Get-Host
+HOSTNAME.EXE
